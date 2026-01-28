@@ -1,4 +1,4 @@
-![[42 Piscine/shell00 (UNCOMPLETE)/Pasted image 20260127123646.png]]
+![[Pasted image 20260127123646.png]]
 
 Once you’ve achieved the previous steps, execute the following command to create
 the file to be submitted:

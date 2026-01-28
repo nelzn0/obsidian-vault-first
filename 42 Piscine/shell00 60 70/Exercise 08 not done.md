@@ -6,7 +6,7 @@ with ~ (tilde) or, start and end with # (hash).
 
 man find
 
-![[42 Piscine/shell00 (UNCOMPLETE)/Pasted image 20260127110354.png]]
+![[Pasted image 20260127110354.png]]
 
 might be this
 

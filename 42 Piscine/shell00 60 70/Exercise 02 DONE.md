@@ -1,6 +1,6 @@
 same thing, but with 2 folders, 4 files, and one symlink
 
-![[42 Piscine/shell00 (UNCOMPLETE)/Pasted image 20260127143955.png]]
+![[Pasted image 20260127143955.png]]
 
 `mkdir test0`
 
