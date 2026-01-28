@@ -11,4 +11,3 @@ Write a function that displays the character passed as a parameter.
 • To display the character, you must use the write function as follows:
 
 ![[Pasted image 20260128175700.png]]
-- [ ]
