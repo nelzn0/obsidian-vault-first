@@ -1,0 +1,11 @@
+Turn-in directory: ex06/
+Files to turn in: skip.sh
+Allowed functions: None
+
+• Write a command line that executes `ls -l` but displays only every second line,
+starting from the first line.
+
+• Example output:
+
+![[42 Piscine/shell01/Pasted image 20260127115809.png]]
+
