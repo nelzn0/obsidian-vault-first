@@ -1,0 +1,14 @@
+Turn-in directory: ex04/
+Files to turn in: ft_is_negative.c
+Allowed functions: write
+
+• Create a function that displays ’N’ or ’P’ depending on the sign of the integer passed as a parameter.
+
+	◦ If n is negative, display ’N’.
+
+	◦ If n is positive or zero, display ’P’.
+
+• The function should be prototyped as follows:
+
+![[Pasted image 20260128192558.png]]
+
