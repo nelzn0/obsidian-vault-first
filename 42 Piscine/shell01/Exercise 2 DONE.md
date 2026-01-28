@@ -32,9 +32,9 @@ basename = only show the filename
 
 .sh = tells basename to remove .sh from the name
 
-`find . -name "*.sh" -exec basename {} .sh \; | cat -e`
+`find . -name "*.sh" -exec basename {} .sh \; 
 
 cat -e to add $ in breaks
 
-
+Tinha o `| cat -e` dentro do ficheiro a toa, e um espaco
 

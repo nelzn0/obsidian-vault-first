@@ -21,6 +21,8 @@ NR = number of records
 
 == = the difference
 
+==1 = verifies if the rest is 1, odd
+
 ==1 = starting from the first line
 
 
