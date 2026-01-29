@@ -1,0 +1,14 @@
+Turn-in directory: ex07/
+Files to turn in: ft_rev_int_tab.c
+Allowed functions: None
+
+• Create a function that reverses a given array of integers (the first element becomes the last, and so on).
+
+• The function takes two arguments: a pointer to an int and the number of elements in the array.
+
+• The function should be prototyped as follows:
+
+![[Pasted image 20260129141725.png]]
+
+`void ft_rev_int_tab(int *tab, int size);`
+
