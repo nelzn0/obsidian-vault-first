@@ -12,3 +12,47 @@ Allowed functions: write
 
 ![[Pasted image 20260128192558.png]]
 
+## Solution
+
+```
+#include <unistd.h>
+
+void ft_is_negative(int n)
+{
+        char c;
+        {
+                if (n <= -1)
+                {
+                        c = 'N';
+                        write(1, &c, 1);
+                }
+                else
+                {
+                        c = 'P';
+                        write(1, &c, 1);
+                }
+        }
+}
+```
+
+
+first exercise I done completely from scratch with no help, however, I required perplexity to check because I got stuck on one part for using c& instead of &c.... LOL
+
+todo cego
+
+## to test
+
+`int main(void)`
+`{`
+        `ft_is_negative(-3);`
+        `return (0);`
+`}`
+
+
+or Positive
+
+`int main(void)`
+`{`
+        `ft_is_negative(3);`
+        `return (0);`
+`}`
