@@ -46,6 +46,10 @@ Allowed functions: None
 `//      return (0);`
 `//}`
 
+tab var
+
+and size var (size of the tab)
+
 in the function i created 3 int vars
 
 a temporary var
@@ -57,3 +61,20 @@ I set the end var, size minus one (since the first position is
 usually not 1, but 0)
 
 and then a loop
+
+while the index is lower than the division of 2 of the size
+
+I place the first position of the table on the temporary
+
+I place the last position in the first
+
+and then I take the first position from the temp and place it in
+the last
+
+while i have a negative and positive counter, so it wont replace
+any numbers from the order, since its closing up on the 
+value in the middle position (and the middle position always stays in place)
+
+
+
+
