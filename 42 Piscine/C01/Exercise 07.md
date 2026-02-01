@@ -46,3 +46,14 @@ Allowed functions: None
 `//      return (0);`
 `//}`
 
+in the function i created 3 int vars
+
+a temporary var
+the index var
+and the end (of my index) var
+
+always set the index to the first position (0);
+I set the end var, size minus one (since the first position is
+usually not 1, but 0)
+
+and then a loop
