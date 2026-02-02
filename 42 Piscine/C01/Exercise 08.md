@@ -58,5 +58,34 @@ int   main(void)
 }
 ```
 
-end var is useless
+end var is useless now, i've included it oops
+
+added sorted var, 0 means its not sorted, 1 means it sorted
+
+I started with sorted = 0 to assume its not sorted
+
+then a loop, while the table isnt sorted (0)
+
+assume that its already sorted
+
+set the index back to the first position
+
+then another loop, comparing the current position to the next, with a minus one in the size since the first position is always 0
+
+with a increment for the index
+
+inside this loop we have an if the current position is bigger than the next position, we swap it
+
+we put the current position in the temp
+
+the next position in the current position
+
+and then we put the current position saved on temp in the next position
+
+
+
+
+
+
+
 
